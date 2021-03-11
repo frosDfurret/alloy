@@ -1,7 +1,7 @@
 # Alloy Proxy
 A web proxy for use in combating web filters.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloy/tree/master)
+Edited by frosDfurret to fit in with the freed0m design language. All credit goes to titaniumnetwork.
+[![Deploy](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FfrosDfurret%2Falloy)
 
 ## Running locally
 
